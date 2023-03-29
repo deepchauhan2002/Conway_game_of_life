@@ -4,10 +4,6 @@ This is an implementation of [Conway's Game of Life](https://en.wikipedia.org/wi
 
 ![game of life preview](./preview.gif)
 
-### 😎 Try it out! 
-
-https://dauta.space/game-of-life/
-
 ### ⚡️ Quickstart
 
 - Clone this repository
