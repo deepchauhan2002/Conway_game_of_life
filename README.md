@@ -17,3 +17,5 @@ This is an implementation of [Conway's Game of Life](https://en.wikipedia.org/wi
 ### 🥑 Seed
 
 Tweak the `seed` parameters and/or the `condition` and see the different patterns emerge. 
+
+![image](https://user-images.githubusercontent.com/108655042/229307862-c55a0f20-0495-4959-9c24-97dbbd764468.png)
